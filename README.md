@@ -8,3 +8,6 @@ The process of the design of a system requires the preparation of an Interface C
 Document (ICD). An ICD is a contract established among components exchanging data, flows, or connecting to each other either mechanically, thermical or electrically, which ensure 
 compatibility to satisfy the objectives of the system being designed.
 
+## Ground Segment
+A blueprint of a Ground Segment architecture.
+
